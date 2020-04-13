@@ -36,6 +36,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ![104](/img/104.png)
 
 --
+이미지 포스팅용 ( curtiskim.gitbook.io/notes)
 ![105](/img/spring-cloud/105.png)
 ![106](/img/spring-cloud/106.png)
 ![107](/img/spring-cloud/107.png)
