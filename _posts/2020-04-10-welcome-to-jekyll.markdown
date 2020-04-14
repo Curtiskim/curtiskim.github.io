@@ -55,3 +55,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ![알랏설정4](/img/elk/105.png)
 ![알랏설정5](/img/elk/106.png)
 ![메세지결과](/img/elk/107.png)
+
+
+-- 소나큐브용 이미지 업로드 캡처 업로드
+![업로드된 요약정보](/img/sonar/100.png)
+![업로드된 상세요약정보](/img/sonar/101.png)
+![보상세화면](/img/sonar/102.png)
+![젠킨스설정](/img/sonar/103.png)
+![깃랩설정](/img/sonar/104.png)
+![플러그인다운로드](/img/sonar/105.png)
+![린트정보](/img/sonar/106.png)
+![지원언어](/img/sonar/107.png)
