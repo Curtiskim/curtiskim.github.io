@@ -44,3 +44,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ![109](/img/spring-cloud/109.png)
 ![110](/img/spring-cloud/110.png)
 ![111](/img/spring-cloud/111.png)
+
+
+-- elk 테스트이미지 캡처용 업로드
+![도커실행화면](/img/elk/100.png)
+![키바나화면](/img/elk/101.png)
+![알랏설정1](/img/elk/102.png)
+![알랏설정2](/img/elk/103.png)
+![알랏설정3](/img/elk/104.png)
+![알랏설정4](/img/elk/105.png)
+![알랏설정5](/img/elk/106.png)
+![메세지결과](/img/elk/107.png)
