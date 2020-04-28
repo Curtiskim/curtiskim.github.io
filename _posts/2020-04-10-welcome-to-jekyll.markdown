@@ -68,13 +68,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ![지원언어](/img/sonar/107.png)
 
 
--- 테스트 도커 컨테이
+-- 테스트 도커 컨테이너
 ![구동1](/img/test-code/100.png)
 ![구동2](/img/test-code/101.png)
 
 
--- 테스트 도커 컨테이
--- 테스트 도커 컨테이
+-- 업소스 포스팅 관련
 ![upsource-1](/img/upsource/100.png)
 ![upsource-2](/img/upsource/101.png)
 ![upsource-3](/img/upsource/102.png)
@@ -101,3 +100,16 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ![upsource-24](/img/upsource/123.png)
 ![upsource-25](/img/upsource/124.png)
 ![upsource-26](/img/upsource/125.png)
+
+
+-- 스카우터용 포스팅 관련
+![scouter-1](/img/scouter/100.png)
+![scouter-2](/img/scouter/101.png)
+![scouter-3](/img/scouter/102.png)
+![scouter-4](/img/scouter/103.png)
+![scouter-5](/img/scouter/104.png)
+![scouter-6](/img/scouter/105.png)
+![scouter-7](/img/scouter/106.png)
+![scouter-8](/img/scouter/107.png)
+![scouter-9](/img/scouter/108.png)
+![scouter-10](/img/scouter/109.png)
