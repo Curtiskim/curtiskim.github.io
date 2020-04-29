@@ -115,7 +115,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ![scouter-10](/img/scouter/109.png)
 
 -- jira 연동 포스팅 관련
-![jira-1](/img/jira/100.png)
 ![jira-2](/img/jira/101.png)
 ![jira-3](/img/jira/102.png)
 ![jira-4](/img/jira/103.png)
